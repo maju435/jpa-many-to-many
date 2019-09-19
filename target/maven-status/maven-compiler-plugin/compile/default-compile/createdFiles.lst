@@ -1,0 +1,12 @@
+pl/jpaspring/jpaspring/entity/PublishingEntity.class
+pl/jpaspring/jpaspring/PersistenceContext.class
+pl/jpaspring/jpaspring/JpaManyToManyApplication.class
+pl/jpaspring/jpaspring/queries/CustomerRepository.class
+pl/jpaspring/jpaspring/DTO/BookDTO.class
+pl/jpaspring/jpaspring/DTO/CustomerDTO.class
+pl/jpaspring/jpaspring/DTO/AutorDTO.class
+pl/jpaspring/jpaspring/DTO/PublishingDTO.class
+pl/jpaspring/jpaspring/queries/AutorRepository.class
+pl/jpaspring/jpaspring/entity/BookEntity.class
+pl/jpaspring/jpaspring/entity/CustomerEntity.class
+pl/jpaspring/jpaspring/entity/AutorEntity.class

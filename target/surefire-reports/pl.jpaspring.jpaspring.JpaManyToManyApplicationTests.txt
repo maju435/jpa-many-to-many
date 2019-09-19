@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: pl.jpaspring.jpaspring.JpaManyToManyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.614 s <<< FAILURE! - in pl.jpaspring.jpaspring.JpaManyToManyApplicationTests
+contextLoads(pl.jpaspring.jpaspring.JpaManyToManyApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'demo' defined in pl.jpaspring.jpaspring.JpaManyToManyApplication: Unsatisfied dependency expressed through method 'demo' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autorRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract java.util.List pl.jpaspring.jpaspring.queries.AutorRepository.findByName(java.lang.String)! No property name found for type AutorEntity!
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autorRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract java.util.List pl.jpaspring.jpaspring.queries.AutorRepository.findByName(java.lang.String)! No property name found for type AutorEntity!
+Caused by: java.lang.IllegalArgumentException: Failed to create query for method public abstract java.util.List pl.jpaspring.jpaspring.queries.AutorRepository.findByName(java.lang.String)! No property name found for type AutorEntity!
+Caused by: org.springframework.data.mapping.PropertyReferenceException: No property name found for type AutorEntity!
+

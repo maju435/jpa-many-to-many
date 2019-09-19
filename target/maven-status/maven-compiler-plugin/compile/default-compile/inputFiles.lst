@@ -1,0 +1,12 @@
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/entity/CustomerEntity.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/DTO/PublishingDTO.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/PersistanceContext.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/DTO/BookDTO.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/entity/BookEntity.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/queries/CustomerRepository.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/DTO/AutorDTO.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/entity/AutorEntity.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/queries/AutorRepository.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/DTO/CustomerDTO.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/entity/PublishingEntity.java
+/home/admin/tech/jpa-many-to-many/src/main/java/pl/jpaspring/jpaspring/JpaManyToManyApplication.java
